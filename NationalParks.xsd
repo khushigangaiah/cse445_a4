@@ -16,7 +16,7 @@
          <xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
          <xsd:element name="Address" type="AddressType" minOccurs="1" maxOccurs="1"/>
       </xsd:sequence>
-       <xsd:attribute name="Rating" type="xs:string" use="optional"/>
+       <xsd:attribute name="Rating" type="xsd:string" use="optional"/>
    </xsd:complexType>
    
    <xsd:complexType name="AddressType">
