@@ -4,10 +4,6 @@ xmlns="https://khushigangaiah.github.io/cse445_a4/"
 targetNamespace= "https://khushigangaiah.github.io/cse445_a4/"
 elementFormDefault="qualified" attributeFormDefault="unqualified">
 
-   
-
-
-   
 
    <xsd:element name="NationalParks" type="NationalParksType"/>
    
