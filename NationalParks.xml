@@ -3,7 +3,7 @@
     xsi:schemaLocation= "https://khushigangaiah.github.io/cse445_a4/NationalParks.xsd">
 
     <NationalPark Rating="4.9">
-        <Name>GrandCanyon</Name>
+        <Name>Grand Canyon</Name>
         <Phone>923-638-7496</Phone>
         <Phone>888-297-2757</Phone>
         <Phone>866-499-2574</Phone>
